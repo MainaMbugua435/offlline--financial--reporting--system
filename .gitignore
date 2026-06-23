@@ -1,0 +1,9 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
+financial_data.db
+client/build/
+client/node_modules/
